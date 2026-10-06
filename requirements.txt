@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pillow
+ipython
+pandas
+scikit-learn
+tqdm
+ipywidgets
+pyswip
